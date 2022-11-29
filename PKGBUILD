@@ -3,6 +3,7 @@
 _pkgname="rune"
 
 pkgname="google-rune-git"
+provides=("google-rune")
 pkgver=0.1.0
 pkgrel=1
 pkgdesc="Google's Rune programming language"
